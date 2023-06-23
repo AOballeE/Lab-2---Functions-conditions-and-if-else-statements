@@ -1,6 +1,5 @@
 <h1>Lab 2 - File handling, functions, conditions, and if/else statements </h1>
 
- ### [Working with choices)
 
 <h2>Description</h2>
 In this lab project we will be using defintions along with a student database to open a file in 
